@@ -10,7 +10,7 @@ LSP servers for you.
 # Install
 ## Miq
 Installation via [Miq][miq] is simple and easy. Add `TorchedSammy/lspinstall.lxl`
-to your plugin declaration:
+to your plugin declaration.
 
 ## Manually
 Either git clone to your plugins directory or symlink. Make sure it's
@@ -19,7 +19,6 @@ named `lspinstall`!
 ```
 git clone https://github.com/TorchedSammy/lspinstall.lxl ~/.config/lite-xl/plugins/lspinstall
 ```
-
 # Usage
 Usage is simple: run the `Lspinstall: Install Server` command and type in
 the server name.
